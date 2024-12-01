@@ -357,10 +357,10 @@ echo -e "\033[32m\033[1m
   \033[31mWarning: \033[37mDon't Forget Your \033[35mUsername \033[37mand \033[35mPassword
   \033[33m________________________________________________________
 
-     \033[1m\033[36mTool Name       \033[32m: \033[33mTermuX-Custom
-     \033[1m\033[36mAuthor Name     \033[32m: \033[33mAkshat
-     \033[1m\033[36mCountry         \033[32m: \033[33mIndia
-     \033[1m\033[36mState           \033[32m: \033[33mDelhi 
+     \033[1m\033[36mStatus          \033[32m: \033[33mHACKER
+     \033[1m\033[36mAuthor Name     \033[32m: \033[33mNTEEJ
+     \033[1m\033[36mWA Chan         \033[32m: \033[33mhttps://whatsapp.com/channel/0029Vae3GZF9Bb658QgSCl1I
+     \033[1m\033[36mScript          \033[32m: \033[33mhacker-style
   \033[31m________________________________________________________
 "
 
