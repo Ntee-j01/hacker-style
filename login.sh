@@ -41,7 +41,7 @@ if [[ \$pass == $password && \$user == $username ]]; then
 sleep 3
 clear
 cd $HOME
-cd TermuX-Custom
+cd hacker-style
 cd Song
 python sound_effect.py
 clear
@@ -57,7 +57,7 @@ echo -e "\033[1m\033[33m
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                                                                    
 
 "
-echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mCyberAK \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mNTEEJ \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 cd $HOME
 echo -e "   \033[1m\033[33m]\033[31m──────────────────────────────────────\033[33m["
 echo 
