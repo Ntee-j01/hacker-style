@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the TermuX-Custom directory
-cd $HOME/TermuX-Custom || exit
+cd $HOME/hacker-style || exit
 
 # Pull the latest changes from the remote repository
 git pull origin main
