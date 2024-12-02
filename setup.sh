@@ -33,7 +33,7 @@ cd $HOME/hacker-style
 cp login.sh $PREFIX/etc
 chmod +x login.sh delete.sh setup.sh sound_effect.py banner.sh update.sh
 mkdir -p $HOME/hacker-style/Song 
-mv Access-Granted.mp3 Jarvis2.mp3 JARVIS.mp3 sound_effect.py $HOME/TermuX-Custom/Song
+mv Access-Granted.mp3 Jarvis2.mp3 JARVIS.mp3 sound_effect.py $HOME/hacker-style/Song
 rm 1
 mkdir -p $HOME/hacker-style/NETWORK
 mv network.py $HOME/hacker-style/NETWORK
