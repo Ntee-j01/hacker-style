@@ -81,7 +81,7 @@ shopt -s compat32
 shopt -s lithist
 comment
 cd $HOME
-cd TermuX-Custom
+cd hacker-style
 cd
 else
 echo ""
